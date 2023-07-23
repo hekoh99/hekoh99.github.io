@@ -61,7 +61,7 @@ class Ball {
 
 var tmp1;
 var tmp2;
-var arrSize = 1;
+var arrSize = 10;
 var ball = [];
 var cnt = 0;
 var fs;
